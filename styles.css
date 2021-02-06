@@ -41,6 +41,11 @@
     border: 0;
     background-color: orange;
   }
+  .calculator-grid .equl{
+    border: 0;
+    background-color: lightgray;
+    color: black;
+  }
   .calculator-grid .gray{
     border: 0;
     background-color: gray;
