@@ -2,3 +2,5 @@
 
 Created using HTML, CSS, JS.
 Performs basic operations.
+
+![](ss.png)
